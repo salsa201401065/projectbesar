@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:car="http://www.projectsemweb/namespace#">
+	
+	<rdf:Description
+		rdf:about="https://www.ford.com/">
+		<dc:title>Ford</dc:title>
+		<car:compname>Ford Motor Company</car:compname>
+		<dc:coverage>United States</dc:coverage>
+		<car:compFouded>Henry Ford</car:compFouded>
+		<dc:date>1903</dc:date>
+		<dc:description>The company sells automobiles and commercial vehicles under the ford brand and luxury cars under its Lincoln luxury brand</dc:description>
+		<car:img>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ford_Motor_Company_Logo.svg/1920px-Ford_Motor_Company_Logo.svg.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.toyota.astra.co.id/">
+		<dc:title>Toyota</dc:title>
+		<car:compname>Totoya Motor Corperation</car:compname>
+		<dc:coverage>Japan</dc:coverage>
+		<car:compFouded>Kirochi Toyoda</car:compFouded>
+		<dc:date>1937</dc:date>
+		<dc:description>The company sells automobiles and commercial vehicles under the toyota brand,provides commercial services, and makes robots. It is the largest car manufacturing company in the world</dc:description>
+		<car:img>https://www.freepnglogos.com/uploads/toyota-logo-png/toyota-logos-brands-logocarpes-0.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://en.wikipedia.org/wiki/Chevrolet">
+		<dc:title>Chevrolet</dc:title>
+		<car:compname>Chevrolet Motor Company</car:compname>
+		<dc:coverage>United States</dc:coverage>
+		<car:compFouded>Arthur Chevrolet and Louis Chevrolet</car:compFouded>
+		<dc:date>1911</dc:date>
+		<dc:description>The Company produces and sells a wide range of vehicles, from subcompact automobiles to medium-ducar commercial trucks</dc:description>
+		<car:img>https://curcol.co/wp-content/uploads/2016/05/logo_chevrolet.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://id.wikipedia.org/wiki/Hyundai_Motor_Company">
+		<dc:title>Hyundai</dc:title>
+		<car:compname>Hyundai Motor Company</car:compname>
+		<dc:coverage>Korea</dc:coverage>
+		<car:compFouded>Chung Ju Yung</car:compFouded>
+		<dc:date>1967</dc:date>
+		<dc:description>The company operates the world's largest integrated car production facilicar in Ulsan, South Korea</dc:description>
+		<car:img>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/1024px-Hyundai_Motor_Company_logo.svg.png</car:img>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://id.wikipedia.org/wiki/Honda">
+		<dc:title>Honda</dc:title>
+		<car:compname>Honda Motor Company</car:compname>
+		<dc:coverage>Japan</dc:coverage>
+		<car:compFouded>Soichiro Honda</car:compFouded>
+		<dc:date>1937</dc:date>
+		<dc:description>a Japanese company that manufactures cars, trucks, motorcycles and scooters. They also make all-terrain vehicles (ATVs), electric generators, marine engines, and garden equipment</dc:description>
+		<car:img>https://rekreartive.com/wp-content/uploads/2019/04/Logo-Honda-Motor-Company-Mobile.jpg</car:img>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="https://auto2000.co.id/mobil-baru-toyota/p/agya">
+		<dc:title>Agya New</dc:title>
+		<car:ccar> 1.000 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>114,9 jt</car:price>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="https://auto2000.co.id/mobil-baru-toyota/p/avanza">
+		<dc:title>Avanza New</dc:title>
+		<car:ccar> 1.329 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>206,2 jt</car:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.toyota.astra.co.id/product/all-new-rush">
+		<dc:title>Rush New</dc:title>
+		<car:ccar> 1.496 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>245,5 jt</car:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.toyota.astra.co.id/product/kijang-innova">
+		<dc:title>Innova New</dc:title>
+		<car:ccar> 1.998 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>326,4 jt</car:price>
+	</rdf:Description>
+	
+	<rdf:Description
+		rdf:about="https://www.toyota.astra.co.id/product/all-new-fortuner">
+		<dc:title>Fortuner New</dc:title>
+		<car:ccar>2.800 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>553,4 jt</car:price>
+	</rdf:Description>
+
+</rdf:RDF>
+	
