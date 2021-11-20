@@ -98,6 +98,13 @@
 		<dc:date>2021</dc:date>
 		<car:price>553,4 jt</car:price>
 	</rdf:Description>
+	<rdf:Description
+		rdf:about="https://www.oto.com/en/mobil-baru/daihatsu/terios">
+		<dc:type>Daihatsu Terios</dc:type>
+		<car:ccar>1.500 cc</car:ccar>
+		<dc:date>2021</dc:date>
+		<car:price>255 jt</car:price>
+	</rdf:Description>
 
 </rdf:RDF>
 	
